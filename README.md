@@ -1,4 +1,4 @@
-# primes
+# lazy-primes
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar primes-0.1.0-standalone.jar [args]
+    $ java -jar lazy-primes-0.1.0-standalone.jar [args]
 
 ## Options
 
@@ -30,7 +30,7 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 William Swaney
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
