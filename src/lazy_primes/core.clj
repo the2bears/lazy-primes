@@ -1,4 +1,4 @@
-(ns primes.core
+(ns lazy-primes.core
   (:gen-class))
 
 (def sieve (atom (iterate inc 2)));lazy sequence via iterate

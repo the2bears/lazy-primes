@@ -1,6 +1,6 @@
-(ns primes.core-test
+(ns lazy-primes.core-test
   (:require [clojure.test :refer :all]
-            [primes.core :refer :all]))
+            [lazy-primes.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
